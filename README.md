@@ -1,8 +1,8 @@
 ### Hi! I am Bernardo Duarte.
 
-- 🔭 I’m a Front-End Developer;
-- 🌱 I’m currently learning Back-End;
-- 📫 E-mail me: bernardoduartedc@outlook.com
+- 🔭 Desenvolvedor Fullstack;
+- 🌱 Cursando Ciências da Computação;
+- 📫 E-mail: bernardoduartedc@outlook.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Be-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
