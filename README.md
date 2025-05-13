@@ -1,7 +1,7 @@
 ### Hi! I am Bernardo Duarte.
 
-- 🔭 Desenvolvedor Fullstack;
-- 🌱 Cursando Ciências da Computação;
+- 🔭 Fullstack Developer;
+- 🌱 Bachelor in Computer Science;
 - 📫 E-mail: bernardoduartedc@outlook.com
 
 <div style="display: inline_block"><br>
